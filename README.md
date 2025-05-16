@@ -1,4 +1,4 @@
-# Classificators-compare-credit-risk-assessment
+# Klasifikācijas metožu salīdzinājums kredītriska novērtēšanai
 Klasifikācijas metodes kredītriska novērtēšanai (Jūlija Zaiceva 181RIC090)
 
 1. 1_prprocessing - kods pirmapstrādes procesiem
